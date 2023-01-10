@@ -1,0 +1,32 @@
+@import "../constants/mixins";
+
+.authentication {
+  width: 30rem;
+  margin-top: 4.25rem;
+  margin-left: 2rem;
+
+  .go_back {
+    margin-left: -0.75rem;
+    text-transform: capitalize;
+
+    span {
+      margin-left: 0.5rem;
+    }
+  }
+
+  .value_input {
+    @include flexmixin(row, no-wrap, center, space-between, 0.5rem);
+    margin-top: 1rem;
+
+    .text_field {
+      width: 65%;
+    }
+  }
+
+  .submit_btn {
+    width: 10rem;
+    margin-top: 2rem;
+    margin-left: 66.5%;
+    text-transform: capitalize;
+  }
+}

@@ -1,0 +1,15 @@
+@import "../constants/colors";
+@import "../constants/mixins";
+
+.display_cart {
+  @include flexmixin(row, no-wrap, center, center, 0);
+  width: 3rem;
+  height: 3rem;
+  position: fixed;
+  top: 5rem;
+  right: 1rem;
+  border-radius: 50%;
+  background-color: $white;
+  box-shadow: $boxshadow01;
+  cursor: pointer;
+}

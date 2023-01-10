@@ -1,0 +1,28 @@
+@import "../constants/mixins";
+
+.all_products {
+  margin-top: 4.25rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+
+  h2 {
+    font-weight: 500;
+  }
+
+  .categories {
+    @include flexmixin(row, wrap, center, none, 0.5rem);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    .chip {
+      outline: none;
+      text-transform: lowercase;
+    }
+  }
+
+  .our_products {
+    @include flexmixin(row, wrap, flex-start, space-between, 1.75rem);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}

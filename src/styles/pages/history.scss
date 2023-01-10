@@ -1,0 +1,26 @@
+@import "../constants/mixins";
+
+#order_history {
+  margin: 2rem;
+  margin-top: 4.25rem;
+
+  .go_back {
+    margin-bottom: 0.5rem;
+    margin-left: -0.75rem;
+    text-transform: capitalize;
+
+    span {
+      margin-left: 0.5rem;
+    }
+  }
+
+  h2 {
+    font-weight: 500;
+  }
+
+  .history_products {
+    @include flexmixin(row, wrap, flex-start, space-between, 1.75rem);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}

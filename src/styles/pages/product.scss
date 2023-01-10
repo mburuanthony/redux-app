@@ -1,0 +1,50 @@
+@import "../constants/mixins";
+
+#product {
+  margin: 2rem;
+  margin-top: 4.25rem;
+
+  .go_back {
+    margin-bottom: 0.5rem;
+    margin-left: -0.75rem;
+    text-transform: capitalize;
+
+    span {
+      margin-left: 0.5rem;
+    }
+  }
+
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .desc {
+    text-align: justify;
+  }
+
+  .chip {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  ._price {
+    @include flexmixin(row, wrap, center, none, 1rem);
+    margin-bottom: 1rem;
+
+    span {
+      font-size: 1.25rem;
+    }
+
+    ._cart {
+      text-transform: capitalize;
+    }
+  }
+
+  .prod_image {
+    width: 40rem;
+    height: 30rem;
+    border-radius: 1rem;
+    object-position: center;
+    object-fit: cover;
+  }
+}

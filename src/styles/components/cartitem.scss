@@ -1,0 +1,36 @@
+@import "../constants/mixins";
+
+#cart_item {
+  @include flexmixin(row, no-wrap, center, space-between, 0.5rem);
+  padding: 0.125rem;
+
+  .avtr {
+    border-radius: 0;
+    width: 4.75rem;
+    height: 5rem;
+    border-radius: 0.5rem;
+    object-position: center;
+    object-fit: cover;
+  }
+
+  .content {
+    .trash {
+      @include flexmixin(row, no-wrap, center, space-between, 0.25rem);
+      margin-top: 0.5rem;
+
+      .txt_fld {
+        width: 50%;
+
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+        }
+
+        input[type="number"] {
+          -moz-appearance: textfield;
+        }
+      }
+    }
+  }
+}
