@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": 1,
+    "category": "electronics",
+    "name": "Camera",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fcamera.jpg?alt=media&token=4f92d405-d3e7-4c14-96ad-cc48db436599",
+    "price": 399,
+    "in_stock": 110,
+    "qtty": 1,
+    "price_id": "price_1MOEW4LK16Zm81jkLRIwXxcY"
+  },
+  {
+    "product_id": 2,
+    "category": "electronics",
+    "name": "FlashLight",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fflashlight.jpg?alt=media&token=4007a70b-b956-43d5-be28-025457f4d0ad",
+    "price": 120,
+    "in_stock": 80,
+    "qtty": 1,
+    "price_id": "price_1MOEX3LK16Zm81jknVKjrbrF"
+  },
+  {
+    "product_id": 3,
+    "category": "electronics",
+    "name": "Tablet",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Ftablet.jpg?alt=media&token=c30087cd-2541-4266-b710-90cea3badcbf",
+    "price": 490,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEYILK16Zm81jkzg2b0MjF"
+  },
+  {
+    "product_id": 4,
+    "category": "books",
+    "name": "Tricks and Treats",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Ftricks_and_treats.jpg?alt=media&token=5b91751b-fe8a-4aec-83da-8d7651732f33",
+    "price": 20,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEZCLK16Zm81jkS7xb4IcP"
+  },
+  {
+    "product_id": 5,
+    "category": "books",
+    "name": "Harry Potter",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fharry_potter.jpeg?alt=media&token=84874108-8cf7-4834-b1a3-725ad5984abb",
+    "price": 50,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEZxLK16Zm81jkYWg2jy2E"
+  },
+  {
+    "product_id": 6,
+    "category": "books",
+    "name": "Alexander The Great",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Falexander_the_great.jpg?alt=media&token=7a805ff5-3126-4551-90ee-69ef96075367",
+    "price": 80,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEakLK16Zm81jkmIuQYyGS"
+  },
+  {
+    "product_id": 7,
+    "category": "food",
+    "name": "Courgette",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fcourgette.jpg?alt=media&token=26814352-27e1-4b50-a9fe-bff0d92aefde",
+    "price": 2,
+    "in_stock": 200,
+    "qtty": 1,
+    "price_id": "price_1MOEbOLK16Zm81jkIoyvaKiw"
+  },
+  {
+    "product_id": 8,
+    "category": "food",
+    "name": "Cheese",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fcheese.jpg?alt=media&token=6b7b43b7-7318-4d21-8e26-9701fbe06def",
+    "price": 3.5,
+    "in_stock": 98,
+    "qtty": 1,
+    "price_id": "price_1MOEbvLK16Zm81jkJhKBjWiR"
+  },
+  {
+    "product_id": 9,
+    "category": "food",
+    "name": "Carrots",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fcarrots.jpg?alt=media&token=3a7011f2-9573-4e0e-8fd1-1f957b0fbefb",
+    "price": 3,
+    "in_stock": 67,
+    "qtty": 1,
+    "price_id": "price_1MOEccLK16Zm81jkmq1HVXRC"
+  },
+  {
+    "product_id": 10,
+    "category": "toys",
+    "name": "Transformers",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Ftransformers.jpg?alt=media&token=7f31f1f0-edc6-4b43-acb4-270ddf1cbdcc",
+    "price": 48,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEdELK16Zm81jkfGnl3x8Z"
+  },
+  {
+    "product_id": 11,
+    "category": "toys",
+    "name": "Iron Man",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Firon_man.png?alt=media&token=3d0af8ff-e227-4b05-92fe-7015180c1e9c",
+    "price": 60,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEdvLK16Zm81jkNNT8NnqJ"
+  },
+  {
+    "product_id": 12,
+    "category": "toys",
+    "name": "Buzz LightYear",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fbuzz.jpg?alt=media&token=6e7681ff-2afc-458d-bfe7-d55d89279a6a",
+    "price": 65,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEerLK16Zm81jkA8dI7lOy"
+  },
+  {
+    "product_id": 13,
+    "category": "appliances",
+    "name": "Pan",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fpan.png?alt=media&token=b1523a67-ef0b-4996-9441-a0d76f584e5d",
+    "price": 106,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEh1LK16Zm81jkq5QPbpg7"
+  },
+  {
+    "product_id": 14,
+    "category": "appliances",
+    "name": "Air Fryer",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fair_fryer.webp?alt=media&token=4a14c38e-b7ad-4016-b334-c3039982a8e1",
+    "price": 440,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEiVLK16Zm81jkSl0WPXc8"
+  },
+  {
+    "product_id": 15,
+    "category": "appliances",
+    "name": "Chopping Board",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, dolor dolores? Nulla quibusdam quam corporis fugiat mollitia beatae placeat ex magni quas necessitatibus. Iste sunt nesciunt aut eaque ut eum laboriosam porro harum eos. Quidem dolorem quis alias at eos!",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/img-uploader-b6b4b.appspot.com/o/redux-app%2Fchopping_board.jpg?alt=media&token=a650e94d-f35d-46ea-ac33-76df5122bfaf",
+    "price": 5.5,
+    "in_stock": 100,
+    "qtty": 1,
+    "price_id": "price_1MOEjiLK16Zm81jkFCXI87HT"
+  }
+]
