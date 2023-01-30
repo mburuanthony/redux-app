@@ -4,7 +4,6 @@ let react with redux + stripe
 
 ```bash
 # clone with SSH
-
 git clone git@github.com:mburuanthony/redux-app.git
 
 # or HTTPS
